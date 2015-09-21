@@ -1,0 +1,2 @@
+# advmobile
+The goal for this project will be an extension of the existing project "SkyJacker" - a tool that gathered and parsed broadcasted SSIDs from mobile devices. SkyTracker will be a set of tools that will be able to identify that MAC addresses of individuals of a crowd. With the MAC address obtained, SkyTracker will then be able to make a profile of the individual based on broadcasted SSID beacons from their mobile device. The toolkit will then take open source SSID location data to then build a map of places of interest where the targeted individual has been.
